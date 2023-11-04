@@ -6,6 +6,10 @@ This repository contains my solutions to the exercises and coding tasks from the
 
 "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" is a comprehensive guide for beginners looking to understand the core concepts of machine learning, deep learning, and artificial intelligence. The book provides practical examples and hands-on exercises to help grasp the theories and methods of machine learning.
 
+## Note
+
+Due to the limitations of my current device, some of the larger exercises could not be completed and are therefore missing from this repository. I apologize for any inconvenience this may cause and appreciate your understanding.
+
 ## Repository Structure
 
 The repository is organized chapter-wise, each containing the corresponding coding exercises and tasks from the book.
